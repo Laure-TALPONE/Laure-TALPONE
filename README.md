@@ -3,7 +3,7 @@
 
 - 💼 I'm learning JavaScript, PHP, SQL, React, Laravel ...
 
-- ⌛ I am currently working on creating my portfolio and projects
+- ⌛ I'm currently working on creating my portfolio and projects
 
 - 📧 Contact me : lauretalpone@hotmail.fr
 
