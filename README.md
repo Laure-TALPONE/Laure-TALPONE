@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋 ! My name is Laure Talpone</h1>
+<h1 align="center">Hello World 👋 ! My name is Laure</h1>
 <h3 align="center">I'm studying Web Development at O'clock school 💻</h3>
 
 - 💼 I'm learning JavaScript, PHP, SQL, React, Laravel ...
