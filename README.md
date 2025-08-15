@@ -8,6 +8,7 @@ I'm a **Junior Web Developer** who just completed an apprenticeship combining pr
 - TypeScript
 - Sass
 - HTML5 & CSS3
+- Prisma
 
 ### 📚 Technologies I have explored during my studies
 - JavaScript
