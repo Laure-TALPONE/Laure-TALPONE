@@ -19,4 +19,4 @@ I'm a **Junior Web Developer** who just completed an apprenticeship combining pr
 - Git & GitHub  
 - Docker
 
-- 📧 Contact me : lauretalpone@hotmail.fr
+### 📧 Contact me : lauretalpone@hotmail.fr
